@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-// {{generated_message}}
+# {{generated_message}}
 PATH="$PATH:/usr/local/bin"
 __dirname=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 __filename="${0##*/}"
